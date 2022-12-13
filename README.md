@@ -24,4 +24,4 @@
 
 ##### Project 🔥
 
-###### <img src="kankokume.png" alt="kankokume-logo" width="52"/> kankoku.me
+###### <img src="kankokume.png" alt="kankokume-logo" width="96"/> kankoku.me
