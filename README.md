@@ -1,4 +1,4 @@
-### Hi there 👋
+### HyunJick Lee's Github 👋
 
 <!--
 **hjick/hjick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
