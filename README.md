@@ -24,17 +24,22 @@
 
 ##### Project 🔥
 
-<img src="kankokume.png" alt="kankokume-logo" width="96"/> 
-###### kankoku.me
+<img src="kankokume.png" alt="kankokume-logo" width="96"/>
 
-<img src="hanping.png" alt="hanping-logo" width="96"/> 
-###### ハンピング: ハングルタイピング
+###### kankoku.me  
 
-<img src="sonny.png" alt="sonny-logo" width="96"/> 
-###### 쏜 알리미
+<img src="hanping.png" alt="hanping-logo" width="96"/>
 
-<img src="wing.png" alt="wing-logo" width="96"/> 
-###### wing
+###### ハンピング: ハングルタイピング  
 
-<img src="melting.png" alt="melting-logo" width="96"/> 
-###### melting
+<img src="sonny.png" alt="sonny-logo" width="96"/>
+
+###### 쏜 알리미  
+
+<img src="wing.png" alt="wing-logo" width="96"/>
+
+###### wing  
+
+<img src="melting.png" alt="melting-logo" width="96"/>
+
+###### melting  
