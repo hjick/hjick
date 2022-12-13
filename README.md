@@ -22,6 +22,7 @@
 ##### Contact 🤝
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=fff)](https://www.instagram.com/hjick_1)
 
+<!-- 
 ##### Project 🔥
 
 <img src="kankokume.png" alt="kankokume-logo" width="96"/>
@@ -42,4 +43,4 @@
 
 <img src="melting.png" alt="melting-logo" width="96"/>
 
-###### melting  
+###### melting   -->
