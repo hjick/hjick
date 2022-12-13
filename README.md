@@ -1,4 +1,12 @@
-### HyunJick Lee's Github 👋
+### 👋 HyunJick Lee 👋
+
+##### FE Developer 🙋‍♂️
+
+![IOS](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+
+
+<a href="https://www.instagram.com/hjick_1/“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/></a>
+
 
 <!--
 **hjick/hjick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
