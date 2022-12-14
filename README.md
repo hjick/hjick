@@ -22,25 +22,10 @@
 ##### Contact 🤝
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=fff)](https://www.instagram.com/hjick_1)
 
-<!-- 
 ##### Project 🔥
 
 <img src="kankokume.png" alt="kankokume-logo" width="96"/>
-
-###### kankoku.me  
-
 <img src="hanping.png" alt="hanping-logo" width="96"/>
-
-###### ハンピング: ハングルタイピング  
-
 <img src="sonny.png" alt="sonny-logo" width="96"/>
-
-###### 쏜 알리미  
-
 <img src="wing.png" alt="wing-logo" width="96"/>
-
-###### wing  
-
 <img src="melting.png" alt="melting-logo" width="96"/>
-
-###### melting   -->
