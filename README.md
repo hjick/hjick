@@ -1,8 +1,8 @@
-# HyunJick Lee 👋
+## HyunJick Lee 👋
 
-#### FE Developer 🙋‍♂      
+### FE Developer 🙋‍♂      
 
-## Tech Stacks 🛠  
+#### Tech Stacks 🛠  
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=212121)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)  
@@ -19,11 +19,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=fff)
 
-## Contact 🤝
+#### Contact 🤝
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=fff)](https://www.instagram.com/hjick_1)
 
-## Project 🔥
+#### Project 🔥
 
 [<img src="kankokume.png" alt="kankokume-logo" width="72"/>](https://www.kankoku.me)
 [<img src="hanping.png" alt="hanping-logo" width="72"/>](https://play.google.com/store/apps/details?id=com.ssubook)
