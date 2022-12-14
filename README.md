@@ -24,8 +24,4 @@
 
 ##### Project 🔥
 
-<img src="kankokume.png" alt="kankokume-logo" width="96"/>
-<img src="hanping.png" alt="hanping-logo" width="96"/>
-<img src="sonny.png" alt="sonny-logo" width="96"/>
-<img src="wing.png" alt="wing-logo" width="96"/>
-<img src="melting.png" alt="melting-logo" width="96"/>
+<img src="kankokume.png" alt="kankokume-logo" width="52"/> <img src="hanping.png" alt="hanping-logo" width="52"/> <img src="sonny.png" alt="sonny-logo" width="52"/> <img src="wing.png" alt="wing-logo" width="52"/> <img src="melting.png" alt="melting-logo" width="52"/>
