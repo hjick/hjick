@@ -30,5 +30,4 @@
 [<img src="sonny.png" alt="sonny-logo" width="72"/>](https://play.google.com/store/apps/details?id=com.sonny_alarm)
 <img src="wing.png" alt="wing-logo" width="72"/>
 [<img src="melting.png" alt="melting-logo" width="72"/>](https://melting.app)
-[<img src="krow.png" alt="krow-logo" width="72"/>](https://www.krow.kr)
 
