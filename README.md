@@ -20,7 +20,6 @@
 
 #### Contact 🤝
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=fff)](https://www.instagram.com/hjick_1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%84%EC%A7%81-%EC%9D%B4-588ab2248/)
 
 #### Project 🔥
