@@ -10,6 +10,7 @@
 ![ReactNative](https://img.shields.io/badge/ReactNative-f5f5f5?style=flat-square&logo=React&logoColor=61DAFB)
 ![Nextjs](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=fff)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![Nestjs](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=Express&logoColor=fff) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)
