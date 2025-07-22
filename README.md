@@ -30,7 +30,7 @@
 [<img src="k-match.png" alt="k-match-logo" width="72"/>](https://play.google.com/store/apps/details?id=com.sonny_alarm)
 [<img src="wing.png" alt="wing-logo" width="72"/>](https://www.wingapp.me)
 [<img src="melting.png" alt="melting-logo" width="72"/>](https://melting.app)
-[<img src="krow.png" alt="krow-logo" height="72"/>](https://www.krow.kr)
+[<img src="krow1.png" alt="krow-logo" height="72"/>](https://www.krow.kr)
 [<img src="toonus.png" alt="toonus-logo" height="72"/>](https://www.toonus.app)
 
 
